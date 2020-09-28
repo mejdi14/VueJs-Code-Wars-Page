@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/finger_cat.png"  width="300" height="400">
-    <HelloWorld msg="you haven't done any code wars challange for today :'("/>
+    <HelloWorld msg="i see that you haven't done any code wars challange yet :3"/>
   </div>
 </template>
 

@@ -24,7 +24,7 @@ h3 {
   margin: 40px 0 0;
 }
 a:link {
-  background-color: #f44336;
+  background-color: #000000;
   color: white;
   margin-top: 30px;
   padding: 14px 25px;

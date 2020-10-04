@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
 
-      This website will stay blocked till you finish at least on challangen <br> <br> <br> <br>
+      This website will stay blocked till you finish at least one challenge <br> <br> <br> <br>
       <a href="https://www.codewars.com/" target="_blank" rel="noopener">CodeWars website</a>.
     </p>
   </div>
